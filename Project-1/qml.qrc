@@ -1,0 +1,30 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Navigation.qml</file>
+        <file>Footer.qml</file>
+        <file>Rect_home.qml</file>
+        <file>Body.qml</file>
+        <file>Drawer_Custom.qml</file>
+        <file>Rect_Drawer.qml</file>
+        <file>Combo_box.qml</file>
+        <file>Device_Info.qml</file>
+        <file>Tooglebar.qml</file>
+        <file>Device_log.qml</file>
+        <file>System_log.qml</file>
+        <file>Zoomer.qml</file>
+        <file>PopUp.qml</file>
+        <file>DateTime.qml</file>
+        <file>Resume_Play.qml</file>
+        <file>PasswordDrawer.qml</file>
+        <file>KeyBoardButton.qml</file>
+        <file>ProfileSaver.qml</file>
+        <file>PleaseWait.qml</file>
+        <file>Confirmation.qml</file>
+        <file>Admin.qml</file>
+        <file>CheckPassword.qml</file>
+        <file>Monitor_log.qml</file>
+        <file>Tech_log.qml</file>
+        <file>OverWrite.qml</file>
+    </qresource>
+</RCC>

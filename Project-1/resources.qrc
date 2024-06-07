@@ -1,0 +1,43 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/download_admin-removebg-preview.png</file>
+        <file>images/output-onlinepngtools (3).png</file>
+        <file>images/reset_admin-removebg-preview.png</file>
+        <file>images/save-removebg-preview.png</file>
+        <file>images/usb-removebg-preview.png</file>
+        <file>images/downkey-removebg-preview-removebg-preview (1).png</file>
+        <file>images/upkey-removebg-preview-removebg-preview (1).png</file>
+        <file>images/reset-removebg-preview.png</file>
+        <file>images/arrow-removebg-preview.png</file>
+        <file>images/tick-removebg-preview.png</file>
+        <file>images/output-onlinepngtools-removebg-preview.png</file>
+        <file>images/close_white-removebg-preview.png</file>
+        <file>images/play_DateTime-removebg-preview.png</file>
+        <file>images/toogle.png</file>
+        <file>images/backarrow-removebg-preview.png</file>
+        <file>images/pause-removebg-preview.png</file>
+        <file>images/play-removebg-preview.png</file>
+        <file>images/setting (1).png</file>
+        <file>images/addition-removebg-preview.png</file>
+        <file>images/wifi-removebg-preview.png</file>
+        <file>images/battery-removebg-preview (1).png</file>
+        <file>images/bluetooth-removebg-preview.png</file>
+        <file>images/lock-removebg-preview.png</file>
+        <file>images/person-removebg-preview.png</file>
+        <file>images/subtraction-removebg-preview (1).png</file>
+        <file>images/output-onlinepngtools (1).png</file>
+        <file>images/close-removebg-preview.png</file>
+        <file>images/info-removebg-preview.png</file>
+        <file>images/enterKey-removebg-preview.png</file>
+        <file>images/output-onlinepngtools (2).png</file>
+        <file>images/upkey-black-removebg-preview-removebg-preview (1).png</file>
+        <file>images/downkey-black-removebg-preview-removebg-preview (1).png</file>
+        <file>images/reset-black-removebg-preview.png</file>
+        <file>images/eye-removebg-preview.png</file>
+        <file>images/eye-close-removebg-preview.png</file>
+        <file>images/cation-removebg-preview.png</file>
+        <file>images/minus.png</file>
+        <file>images/plus.png</file>
+        <file>images/person.png</file>
+    </qresource>
+</RCC>

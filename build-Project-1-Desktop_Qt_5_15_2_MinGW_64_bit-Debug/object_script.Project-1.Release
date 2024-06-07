@@ -1,0 +1,11 @@
+release/drawer_home.o
+release/logmodel.o
+release/main.o
+release/system_log.o
+release/user.o
+release/qrc_qml.o
+release/qrc_resources.o
+release/moc_drawer_home.o
+release/moc_logmodel.o
+release/moc_system_log.o
+release/moc_user.o

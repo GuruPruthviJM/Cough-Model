@@ -1,0 +1,11 @@
+debug/drawer_home.o
+debug/logmodel.o
+debug/main.o
+debug/system_log.o
+debug/user.o
+debug/qrc_qml.o
+debug/qrc_resources.o
+debug/moc_drawer_home.o
+debug/moc_logmodel.o
+debug/moc_system_log.o
+debug/moc_user.o
